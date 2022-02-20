@@ -1,3 +1,3 @@
 # 3-TIER-ARCHITECTURE
-[Doc1.pdf](https://github.com/vasu8480/3-TIER-ARCHITECTURE/files/8103924/Doc1.pdf)
 
+![fdgdf](https://user-images.githubusercontent.com/48316372/154841677-315384d5-bef8-457d-ba09-061126f17569.png)
